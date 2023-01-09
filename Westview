@@ -1,0 +1,22 @@
+<html>
+  
+<head> <link rel="stylesheet" href="style.css">
+<link rel="icon" type="image/x-icon" href="link to image">
+  </head>
+
+  <body>
+      <nav>
+     <li><a href="index.html"> HOME <a/></li>
+     <li><a href="appts.html"> APPS </a></li> 
+     <li><a href="https://www.powayusd.com/en-US/Schools/HS/WVHS/Calendars/School-Calendar"> WESTVIEW </a></li>
+      
+  </nav>
+    <center>
+    <h3><strong> Tyler's Spectacular Website! </h3></strong> 
+    <img src="https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg">
+      <br>
+     <iframe width="392" height="620" style="border: 0px;" 
+    <center>
+  </body>
+</html>
+ 
