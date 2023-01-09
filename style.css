@@ -3,12 +3,32 @@ body {
 }
 
 h3 {
-  color: gold;
+  color: green;
   text-align: center;
   font-size: 100px;
   width: 100%;
 }
 
-img:hover {
-  width: 30%;
+
+nav {
+  list-style-type: none;
+  position: fixed;
+  background-color: white;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+li{
+  display: inline;
+  padding: 15px;
+  float: left;
+}
+li:hover {
+  background-color: green;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
